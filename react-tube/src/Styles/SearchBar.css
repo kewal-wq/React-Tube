@@ -1,0 +1,12 @@
+.search-input-flex{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding-top: 10px;
+    width: 600px;
+}
+
+.search-input{
+    height: 20px;
+    width: 300px;
+}

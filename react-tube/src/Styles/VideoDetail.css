@@ -1,0 +1,39 @@
+.iframe-flex{
+    display: flex;
+    justify-content: center;
+    margin: 20px 0px 20px 0px;
+    width: 1100px;
+}
+
+.iframe{
+    display: flex;
+    height: 400px;
+    width: 800px;
+}
+
+.video-title-flex{
+display: flex;
+justify-content: center;
+width: 1100px;
+}
+
+.video-description-flex{
+    display: flex;
+    justify-content: center;
+    width: 1100px;
+}
+
+.video-title{
+display: flex;
+justify-content: flex-start;
+align-items: center;
+width: 800px;
+
+}
+
+.video-description{
+display: flex;
+justify-content: flex-start;
+align-items: center;
+width: 800px;
+}

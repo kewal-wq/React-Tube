@@ -1,0 +1,27 @@
+
+.listOfVideos{
+    
+    height: 15vh;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.listOfVideos :hover{
+cursor: pointer;
+}
+
+.video-image{
+    
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    padding-right: 10px;
+}
+
+.video-titlee{
+    /* width: 20%; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
